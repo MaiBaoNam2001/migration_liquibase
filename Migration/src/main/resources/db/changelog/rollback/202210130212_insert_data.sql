@@ -1,0 +1,9 @@
+delete from parking_area where id != '';
+delete from parking_type where id != '';
+delete from apartment where id != '';
+delete from floor where id != '';
+delete from building where id != '';
+delete from project where id != '';
+delete from customer where id != '';
+delete from user where username != '';
+delete from role where id != '';

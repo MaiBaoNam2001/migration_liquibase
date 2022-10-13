@@ -1,0 +1,11 @@
+drop table if exists apartment_register;
+drop table if exists parking_register;
+drop table if exists parking_area;
+drop table if exists parking_type;
+drop table if exists apartment;
+drop table if exists floor;
+drop table if exists building;
+drop table if exists project;
+drop table if exists customer;
+drop table if exists user;
+drop table if exists role;
